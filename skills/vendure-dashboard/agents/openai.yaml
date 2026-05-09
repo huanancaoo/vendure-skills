@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vendure Dashboard"
+  short_description: "Vendure React Dashboard 扩展、导航与表单开发指南"
+  default_prompt: "Use $vendure-dashboard to build or modify a Vendure Dashboard extension for a plugin or admin workflow."
