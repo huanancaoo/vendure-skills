@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vendure Backend"
+  short_description: "Vendure 后端插件、GraphQL API 与 Worker 开发指南"
+  default_prompt: "Use $vendure-backend to plan or implement a Vendure plugin, API, worker, or backend configuration task."
