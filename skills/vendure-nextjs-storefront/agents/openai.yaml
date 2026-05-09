@@ -1,0 +1,4 @@
+interface:
+  display_name: "Vendure Next.js Storefront"
+  short_description: "Vendure Next.js Storefront 与 Shop API 集成开发指南"
+  default_prompt: "Use $vendure-nextjs-storefront to build or modify a Vendure Next.js storefront against the Shop API."
